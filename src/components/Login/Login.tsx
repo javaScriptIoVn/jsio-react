@@ -31,7 +31,7 @@ export const Login: React.FC = () => {
 
   return (
     <Row>
-      <Col span={12} offset={6}>
+      <Col span={8} offset={8}>
         {renderForm()}
       </Col>
     </Row>
